@@ -1,6 +1,7 @@
 
   {
       "name": "Small Business Website",
+      "homepage": " https://sa-mael.github.io/small-business-website/",
       "version": "0.1.0",
       "private": true,
       "dependencies": {

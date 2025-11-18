@@ -59,7 +59,7 @@ export default defineConfig({
 
   build: {
     target: "esnext",
-    outDir: "dist", // ← ДЛЯ GITHUB PAGES
+    outDir: "dist", // ←
     sourcemap: false,
   },
 
